@@ -1,5 +1,5 @@
 # Hi there I'm Melih 👋
-- 🌱 I’m a recent software engineering graduate.
+- 🌱 I’m a software engineering graduate.
 - 🔭 Currently coding **Javascript, React** and practicing **HackerRank**.
 - ⚡ Interested in blockchain.
 - 📫 Learning now **Typescript, Nextjs** and **Redux**.

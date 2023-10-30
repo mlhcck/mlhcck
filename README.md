@@ -2,7 +2,7 @@
 - 🌱 I’m a software engineering graduate.
 - 🔭 Currently coding **Javascript, React** and practicing **HackerRank**.
 - ⚡ Interested in blockchain.
-- 📫 Learning now **Typescript, Nextjs** and **Redux**.
+<!-- 📫 Learning now **Typescript, Nextjs** and **Redux**. -->
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,java,cs,solidity,js,html,css,sass,tailwind,bootstrap)](https://skillicons.dev)

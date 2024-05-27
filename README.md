@@ -1,7 +1,7 @@
 # Hi there I'm Melih 👋
-- 🌱 I’m a software engineering graduate.
-- 🔭 Currently coding **Javascript, React** and practicing **HackerRank**.
-- ⚡ Interested in blockchain.
+- 🌱 I’m a software engineer.
+- 🔭 Currently coding **Javascript, Express, C#** and practicing **HackerRank**.
+<!-- ⚡ Interested in blockchain. -->
 <!-- 📫 Learning now **Typescript, Nextjs** and **Redux**. -->
 
 ## Tech Stack
